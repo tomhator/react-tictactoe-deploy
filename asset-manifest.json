@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tictactoe-app/static/css/main.eaa9dd04.css",
-    "main.js": "/react-tictactoe-app/static/js/main.c6921188.js",
-    "static/js/787.7b6dea5d.chunk.js": "/react-tictactoe-app/static/js/787.7b6dea5d.chunk.js",
-    "index.html": "/react-tictactoe-app/index.html",
-    "main.eaa9dd04.css.map": "/react-tictactoe-app/static/css/main.eaa9dd04.css.map",
-    "main.c6921188.js.map": "/react-tictactoe-app/static/js/main.c6921188.js.map",
-    "787.7b6dea5d.chunk.js.map": "/react-tictactoe-app/static/js/787.7b6dea5d.chunk.js.map"
+    "main.css": "/react-tictactoe-deploy/static/css/main.eaa9dd04.css",
+    "main.js": "/react-tictactoe-deploy/static/js/main.7ffdccd8.js",
+    "static/js/787.7b6dea5d.chunk.js": "/react-tictactoe-deploy/static/js/787.7b6dea5d.chunk.js",
+    "index.html": "/react-tictactoe-deploy/index.html",
+    "main.eaa9dd04.css.map": "/react-tictactoe-deploy/static/css/main.eaa9dd04.css.map",
+    "main.7ffdccd8.js.map": "/react-tictactoe-deploy/static/js/main.7ffdccd8.js.map",
+    "787.7b6dea5d.chunk.js.map": "/react-tictactoe-deploy/static/js/787.7b6dea5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa9dd04.css",
-    "static/js/main.c6921188.js"
+    "static/js/main.7ffdccd8.js"
   ]
 }
