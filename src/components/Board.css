@@ -1,0 +1,10 @@
+.status{
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.board-row{
+    display: flex;
+    gap: 1px;
+    margin-top: 1px;
+}
